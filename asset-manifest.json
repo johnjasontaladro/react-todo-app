@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/johnjasontaladro/react-todo-app/static/css/main.46051099.css",
+    "main.js": "/johnjasontaladro/react-todo-app/static/js/main.703c4707.js",
+    "index.html": "/johnjasontaladro/react-todo-app/index.html",
+    "main.46051099.css.map": "/johnjasontaladro/react-todo-app/static/css/main.46051099.css.map",
+    "main.703c4707.js.map": "/johnjasontaladro/react-todo-app/static/js/main.703c4707.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46051099.css",
+    "static/js/main.703c4707.js"
+  ]
+}
