@@ -1,7 +1,7 @@
 {
   "name": "test-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/johnjasontaladro/react-todo-app",
+  "homepage": "https://johnjasontaladro.github.com/react-todo-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
